@@ -1,0 +1,14 @@
+EXAMPLE: 
+
+Let's look at this case: your child's birthday is in three weeks, and you want to use ChatGPT to plan the event. You have:
+A guest list in Excel
+Venue quotes in your email
+Theme inspiration screenshots on your phone
+A dozen text threads with your co-parent about the budget
+
+With so many inputs, you definitely need to develop a multi-step plan.
+
+-----
+Projects solve this by creating a dedicated space where ChatGPT remembers your progress, stores your files, and follows your specific instructions — across multiple conversations.
+To start a new project, click New Project to create your first workspace, and give it a name.
+
