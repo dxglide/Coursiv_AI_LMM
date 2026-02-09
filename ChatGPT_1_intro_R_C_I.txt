@@ -1,0 +1,53 @@
+-- 
+Chat GPT querie formula  
+R+C+I into one powerful prompt
+
+----------------
+
+
+First discovery: Assigning a role transforms ChatGPT from Wikipedia into an expert.
+That's the "R" in your formula.
+
+ChatGPT
+You are [role]. Plan [duration] Barcelona trip.
+
+---------------------------------
+
+=== Extra-Specificaction
+Now, let's break down the budget into detailed categories.
+
+Second discovery: Who, where, when, budget, any other detail — context shapes everything. That's your "C".
+Extra-specification = extra-personalized answers. That's maximum "C" power!
+C = Context
+
+ChatGPT:
+Plan for [who] with €40/day for [food], €50 for [activities], [sum] for shopping, staying in [area].
+Plan for a couple with €40/day for meals , €50 for attractions , €30 for shopping , staying in Gothic Quarter .
+
+------------------------------
+=== Precise Instructions
+Control exactly how information is presented.
+
+
+ChatGPT: 
+Format as hour-by-hour schedule with [timing] , show [calculation].
+Format as  hour-by-hour schedule with specific times , show running costs
+
+ I = Instructions
+Third discovery: Instructions control the output format.
+Clear instructions = usable results. That's your "I"!
+
+-------------------------------
+ R+C+I 
+
+ PROMPT:  
+ You're [specific role] . Plan [duration] [city] trip for [who] is interested in [interest]
+
+From getting Wikipedia entries to receiving personalized itineraries with insider secrets. That's R+C+I mastery in action.
+
+Key Takeaways
+Use Role to tell who ChatGPT should be
+Add Context to provide ChatGPT with situation specifics
+Set Instructions to control the output format
+
+With this knowledge, you can now receive expert-level, personalized, and actionable responses every time!
